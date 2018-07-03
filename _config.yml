@@ -1,0 +1,15 @@
+---
+title: Your Site Title
+timezone: Europe/London
+description: A Jekyll starter theme with kramdown and sass
+
+# Build settings
+markdown: kramdown
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+### exclude the instructions / write-up in the README.md
+exclude:
+- README.md

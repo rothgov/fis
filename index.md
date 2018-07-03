@@ -1,3 +1,8 @@
+---
+title: Welcome
+layout: default
+---
+
 # Jekyll Naked Tachyons (SASS)
 
 ## A Jekyll starter theme
